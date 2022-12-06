@@ -1,6 +1,5 @@
 import React, {useState} from "react"
 import {quotes} from "../quotesData"
-import { Link } from 'react-router-dom';
 
 const QuoteBox = (props) => {
     // console.log(quotes)
